@@ -23,12 +23,12 @@ Website ini dibuat untuk memenuhi beberapa kriteria berikut:
 ## Struktur Website
 
 ```
-├── Header   ← Menampilkan judul atau identitas website.
-├── Navigation    ← Menyediakan navigasi dan link menuju profil Dicoding.
-├── Main      ← Berisi konten utama website.
-├── Article      ← Menampilkan informasi atau konten utama.
-├── Aside      ← Menampilkan foto dan informasi tambahan/biodata.
-└── Footer    ← Menampilkan informasi bagian bawah website.
+* Header   ← Menampilkan judul atau identitas website.
+* Navigation    ← Menyediakan navigasi dan link menuju profil Dicoding.
+* Main      ← Berisi konten utama website.
+* Article      ← Menampilkan informasi atau konten utama.
+* Aside      ← Menampilkan foto dan informasi tambahan/biodata.
+* Footer    ← Menampilkan informasi bagian bawah website.
 ```
 
 
